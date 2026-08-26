@@ -133,8 +133,6 @@ For comments, corrections, or feedback on this web application, contact:
 
 The application uses R Shiny for the user interface and Leaflet for interactive spatial visualisation.
 
-The header photograph is credited to **Robert Schwemmer / NOAA**.
-
 ## Licence
 
 ## Code
