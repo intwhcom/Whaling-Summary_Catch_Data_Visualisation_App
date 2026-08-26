@@ -139,7 +139,7 @@ The header photograph is credited to **Robert Schwemmer / NOAA**.
 
 ## Code
 
-The source code for this application is released under the **MIT License** and may be reused, modified, and further developed.
+The source code for this application is released under the **PolyForm Noncommercial License 1.0.0** and may be reused, modified, and further developed.
 
 See the `LICENSE` file in this repository for details.
 
