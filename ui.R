@@ -131,7 +131,12 @@ dashboardPage(
           href = "mailto:isidora.katara@iwc.int"
         ),
         "."
-      )
+      ),
+      tags$div(
+        class = "info-item",
+        tags$strong("Disclaimer: "),
+        "The designations employed and the presentation of material in this web application do not imply the expression of any opinion whatsoever on the part of the Secretariat of the International Whaling Commission concerning the legal status of any territories or geographical areas, including the delineation of frontiers or boundaries."
+      ),
     )
   ),
 
@@ -158,7 +163,7 @@ dashboardPage(
           span(class = "hero-chip", icon("table"), "Detailed records")
         )
       ),
-      tags$div("Photo: Robert Schwemmer / NOAA", class = "hero-credit")
+      tags$div("Image: Generative AI", class = "hero-credit")
     ),
 
     fluidRow(
@@ -167,7 +172,7 @@ dashboardPage(
         status = "primary",
         solidHeader = TRUE,
         width = 12,
-        leafletOutput("mymap", height = 500)
+        leafletOutput("mymap", height = 450)
       )
     ),
 
