@@ -148,3 +148,7 @@ The data used by this application are available through Zenodo:
 https://zenodo.org/records/19204891
 
 The data are subject to the licence and conditions specified in the Zenodo record. Users should refer to the Zenodo record for the applicable licence and citation information.
+
+## Disclaimer
+
+The designations employed and the presentation of material in this repository an in the application do not imply the expression of any opinion whatsoever on the part of the Secretariat of the International Whaling Commission concerning the legal status of any territories or geographical areas, including the delineation of frontiers or boundaries.
